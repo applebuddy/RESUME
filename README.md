@@ -41,13 +41,14 @@
 - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/220287515417
 
 <div>
-<img width="300" src="https://user-images.githubusercontent.com/4410021/62833672-93e98780-bc7d-11e9-9757-49a171a479aa.png">      <img width="300" src="https://user-images.githubusercontent.com/4410021/62833678-ba0f2780-bc7d-11e9-98f6-8f84e592a328.png"> 
+<img width="400" src="https://user-images.githubusercontent.com/4410021/62833672-93e98780-bc7d-11e9-9757-49a171a479aa.png">      <img width="400" src="https://user-images.githubusercontent.com/4410021/62833678-ba0f2780-bc7d-11e9-98f6-8f84e592a328.png"> 
 </div>
 <p>
 <div>
-<img width="300" src="https://user-images.githubusercontent.com/4410021/62833680-bed3db80-bc7d-11e9-9a80-7be1d2769657.png">      <img width="300" src="https://user-images.githubusercontent.com/4410021/62833681-c1363580-bc7d-11e9-9523-731d259d5920.png"> 
+<img width="400" src="https://user-images.githubusercontent.com/4410021/62833680-bed3db80-bc7d-11e9-9a80-7be1d2769657.png">      <img width="400" src="https://user-images.githubusercontent.com/4410021/62833681-c1363580-bc7d-11e9-9523-731d259d5920.png"> 
 </div>
 
+</br>
 
 ### 전역일계산기
 - 개요 : 육군, 해군, 공군 전역일 계산앱(iOS 앱스토어 배포)
@@ -59,6 +60,7 @@
 - Github 주소 : https://github.com/applebuddy/DischargeDateCalculator
 - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221423501380
 
+</br>
 
 ### 히트가격알람(iOS 앱스토어 배포, 현재 게시 중단)
 - 개요 : 모 암호화폐거래소 타켓 가격 푸시알람앱(qo)
@@ -70,6 +72,7 @@
 - Github 주소 : https://github.com/applebuddy/HitPriceAlarm
 - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221452486594
 
+</br>
 
 ### 코인가격알라(개발 중)
 - 개요 : 모 암호화폐거래소 타켓 가격 푸시알람앱(qo)
