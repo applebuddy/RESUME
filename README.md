@@ -6,7 +6,7 @@
 <br>
 <br>
 
-- [개인 프로젝트]
+- **[개인 프로젝트]**
   - 멍구스토리
   - 전역일계산기
   - 히트가격알람
@@ -15,14 +15,14 @@
  <br>
 
 
-- [학습용 개인 프로젝트]
+- **[학습용 개인 프로젝트]**
   - 부스트코스 프로젝트
   - 간단계산기
   - 날씨카피앱
   
-   <br>
+<br>
 
-- [대외 활용]
+- **[대외 활동]**
   - 커넥트재단 부스트코스 iOS과정
   - 커넥트재단 부스트코스 iOS 에이스활동
 
@@ -56,6 +56,7 @@
 - Github 주소 :  https://github.com/applebuddy/MungGuStory
 - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/220287515417
 
+<br>
 <div>
 <img width="400" src="https://user-images.githubusercontent.com/4410021/62833672-93e98780-bc7d-11e9-9757-49a171a479aa.png">      <img width="400" src="https://user-images.githubusercontent.com/4410021/62833678-ba0f2780-bc7d-11e9-98f6-8f84e592a328.png"> 
 </div>
@@ -78,6 +79,11 @@
 - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221423501380
 
 <br>
+<div>
+<img width="350" height="622" src="https://user-images.githubusercontent.com/4410021/62833770-1b83c600-bc7f-11e9-8546-6b174d56ec74.png">      <img width="350" height="622" src="https://user-images.githubusercontent.com/4410021/62833771-1cb4f300-bc7f-11e9-84ae-673d6e71616a.png"> 
+</div>
+
+<br>
 <br>
 
 ### 히트가격알람(iOS 앱스토어 배포, 현재 게시 중단)
@@ -89,6 +95,12 @@
 - 개발후기 : 기업체 고객 타겟으로 거래소 암호화폐의 가격푸시알람앱을 만들어봤습니다. 거래소 암호화폐의 실시간 가격확인, 타겟가격 도달 시 푸시알람기능을 구현했습니다. 
 - Github 주소 : https://github.com/applebuddy/HitPriceAlarm
 - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221452486594
+
+<br>
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/4410021/62833823-cf855100-bc7f-11e9-9538-4352c654d966.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833851-22f79f00-bc80-11e9-93ef-1548f7451f72.png"> 
+  <img width="200" src="https://user-images.githubusercontent.com/4410021/62833825-d318d800-bc7f-11e9-9b97-5f9066339f48.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833826-d4e29b80-bc7f-11e9-884a-3f3e00fe147e.png"> 
+</div>
 
 <br>
 <br>
