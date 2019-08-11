@@ -40,9 +40,9 @@
 
 # 개인 SNS
 
-- Github : h​ttps://github.com/applebuddy
-- 기술블로그 : h​ttps://0urtrees.tistory.com
-- 일반블로그 : h​ttps://blog.naver.com/koungtea92
+- 깃허브 : https://github.com/applebuddy
+- 기술블로그 : https://0urtrees.tistory.com
+- 일반블로그 : https://blog.naver.com/koungtea92
 
 <br>
 <br>
