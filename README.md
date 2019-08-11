@@ -33,7 +33,7 @@
 <br>
 <br>
 
-### 유용하고 멋진앱을 자유자재로 만들고 싶습니다. 그 꿈을 이루기 위해 개발공부 중에 있는 iOS개발 지망자입니다. 
+### 유용하고 멋진앱을 자유자재로 만들고 싶습니다. 그 꿈을 이루기 위해 개발공부 중에 있습니다.
 
 <br>
 <br>
@@ -116,6 +116,12 @@
 - Github 주소 : https://github.com/applebuddy/CoinPriceCheck
 
 <br>
+<div>
+<img width="300" src="https://user-images.githubusercontent.com/4410021/62833896-897cbd00-bc80-11e9-96f2-3c1e72ba324c.png">      <img width="300" src="https://user-images.githubusercontent.com/4410021/62833930-f3956200-bc80-11e9-9a85-83007d070df5.png"> 
+</div>
+
+
+<br>
 <br>
 <br>
 
@@ -132,6 +138,13 @@
 - 개발후기 : 코드만을 사용한 기본 앱 기능 및 레이아웃 구성연습 및 온라인 개발스터디 간 앱 실행과정 설명
 - Github 주소 : https://github.com/applebuddy/SimpleCalculator
 
+
+<br>
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/4410021/62833913-c2b52d00-bc80-11e9-9d83-e60bf82e3142.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833914-c6e14a80-bc80-11e9-927f-852061569b7c.png"> 
+  <img width="200" src="https://user-images.githubusercontent.com/4410021/62833916-ca74d180-bc80-11e9-8064-abf323122460.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833917-cc3e9500-bc80-11e9-880e-cdb86aa297d3.png"> 
+</div>
+
 <br>
 <br>
 
@@ -143,6 +156,14 @@
 - 사용기술 : Swift
 - 개발후기 : 코드만을 활용한 애플 날씨앱의 카피앱프로젝트
 - Github 주소 : https://github.com/applebuddy/WeatherCopyApp
+
+<div>
+<img width="300" src="https://user-images.githubusercontent.com/4410021/62603585-32e64a80-b931-11e9-88c3-86c960f40922.jpeg">      <img width="300" src="https://user-images.githubusercontent.com/4410021/62603608-3bd71c00-b931-11e9-8b46-ea0c7b2dfc79.jpeg"> 
+</div>
+<p>
+<div>
+<img width="300" src="https://user-images.githubusercontent.com/4410021/62603632-4691b100-b931-11e9-886e-3933d241a495.jpeg">      <img width="300" src="https://user-images.githubusercontent.com/4410021/62603642-4db8bf00-b931-11e9-9a8b-b8d58566f60a.jpeg">
+</div>
 
 <br>
 <br>
