@@ -38,15 +38,15 @@
 - 사용기술 : C++, Cocos2d-x 크로스플랫폼 엔진
 - 개발후기 : 2014년 말, 대학생 시절 재밌게 플레이 하던 일본의 "냥코대전쟁" 게임을 모티브로 개를 주인공으로 고양이들을 물리치는 "멍구스토리" 게임 개발을 시작했습니다. 초기 기본 알고리즘 구현에만 많은 시간이 걸렸지만 포기하지 않고 만들어냈고, 군 입대 전 배포를 할 수 있었습니다. 500명 이상의 다운로드를 기록했습니다. 현재까지 꾸준히 개발에 도전하고 성장할 수 있었던 계기가 된 프로젝트입니다.
 - Github 주소 :  https://github.com/applebuddy/MungGuStory
--​ ​개발 후기(개인블로그) : https://blog.naver.com/koungtea92/220287515417
+- 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/220287515417
 
-![image](https://user-images.githubusercontent.com/4410021/62833672-93e98780-bc7d-11e9-9757-49a171a479aa.png)
-
-![image](https://user-images.githubusercontent.com/4410021/62833678-ba0f2780-bc7d-11e9-98f6-8f84e592a328.png)
-
-![image](https://user-images.githubusercontent.com/4410021/62833680-bed3db80-bc7d-11e9-9a80-7be1d2769657.png)
-
-![image](https://user-images.githubusercontent.com/4410021/62833681-c1363580-bc7d-11e9-9523-731d259d5920.png)
+<div>
+<img width="300" src="https://user-images.githubusercontent.com/4410021/62833672-93e98780-bc7d-11e9-9757-49a171a479aa.png">      <img width="300" src="https://user-images.githubusercontent.com/4410021/62833678-ba0f2780-bc7d-11e9-98f6-8f84e592a328.png"> 
+</div>
+<p>
+<div>
+<img width="300" src="https://user-images.githubusercontent.com/4410021/62833680-bed3db80-bc7d-11e9-9a80-7be1d2769657.png">      <img width="300" src="https://user-images.githubusercontent.com/4410021/62833681-c1363580-bc7d-11e9-9523-731d259d5920.png"> 
+</div>
 
 
 ### 전역일계산기
@@ -56,8 +56,8 @@
 - 역할 : 1인 개발, 디자인
 - 사용기술 : Swift
 - 개발후기 : 군 전역 후 iOS 개발에 입문하여 만든 첫 iOS앱입니다. 기본적인 오토레이아웃과 일련의 앱 배포과정을 알 수 있었습니다.
--​ ​Github 주소 :​ ​https://github.com/applebuddy/DischargeDateCalculator
--​ ​개발 후기(개인블로그) :​ ​https://blog.naver.com/koungtea92/221423501380
+- Github 주소 : https://github.com/applebuddy/DischargeDateCalculator
+- 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221423501380
 
 
 ### 히트가격알람(iOS 앱스토어 배포, 현재 게시 중단)
@@ -67,8 +67,8 @@
 - 역할 : 1인 개발, 디자인
 - 사용기술 : Swift, Firebase, gCloud
 - 개발후기 : 기업체 고객 타겟으로 거래소 암호화폐의 가격푸시알람앱을 만들어봤습니다. 거래소 암호화폐의 실시간 가격확인, 타겟가격 도달 시 푸시알람기능을 구현했습니다. 
-- ​Github 주소 : ​https://github.com/applebuddy/HitPriceAlarm
--​ ​개발 후기(개인블로그) : ​https://blog.naver.com/koungtea92/221452486594
+- Github 주소 : https://github.com/applebuddy/HitPriceAlarm
+- 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221452486594
 
 
 ### 코인가격알라(개발 중)
@@ -79,7 +79,7 @@
 - 사용기술 : Swift
 - 개발후기 : 이전 개인프로젝트가 너무 심플한 기능을 가지고 있어 좀더 실용성있는 알람앱을 만들어보고자 진행 중입니다. 암호화폐거래소, 빗썸의 코인가격을 확인하고, 알람받을 수 있도록 만들고자 하고 있습니다. 
 * 즐겨찾기 한 종목의 인앱 가격확인만 가능한 상태입니다.
-- ​Github 주소 : ​https://github.com/applebuddy/CoinPriceCheck
+- Github 주소 : https://github.com/applebuddy/CoinPriceCheck
 
 
 ## 학습용 개인 프로젝트
@@ -91,7 +91,7 @@
 - 역할 : 1인 개발
 - 사용기술 : Swift
 - 개발후기 : 코드만을 사용한 기본 앱 기능 및 레이아웃 구성연습 및 온라인 개발스터디 간 앱 실행과정 설명
--​ ​Github 주소 :​ ​https://github.com/applebuddy/SimpleCalculator
+- Github 주소 : https://github.com/applebuddy/SimpleCalculator
 
 
 ### 날씨카피앱(iOS앱)
@@ -101,7 +101,7 @@
 - 역할 : 1인 개발
 - 사용기술 : Swift
 - 개발후기 : 코드만을 활용한 애플 날씨앱의 카피앱프로젝트
--​ ​Github 주소 :​ ​https://github.com/applebuddy/WeatherCopyApp
+- Github 주소 : https://github.com/applebuddy/WeatherCopyApp
 
 
 # 대외활동
