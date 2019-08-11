@@ -212,8 +212,8 @@
 - 역할 : 커뮤니티 관리자
 * 커뮤니티 운영 및 소통으로 스터디,  정보교류를 하고 있습니다. 커뮤니티활동을 통해 몇몇 분들과는 연이 되어 온/오프라인 스터디, 팀프로젝트를 진행할 수 있었습니다.
 * 커뮤니티 링크 :
-* 부스트코스 iOS개발자 스터디그룹 오픈채팅방 : https://open.kakao.com/o/gZ6pX4gb
-* 알고리즘 입문방 오픈채팅방 : https://open.kakao.com/o/gX4dTLlb
+  - 부스트코스 iOS개발자 스터디그룹 오픈채팅방 : https://open.kakao.com/o/gZ6pX4gb
+  - 알고리즘 입문방 오픈채팅방 : https://open.kakao.com/o/gX4dTLlb
 
 <br>
 <br>
