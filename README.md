@@ -7,6 +7,8 @@
 
 - **[개인 SNS](https://github.com/applebuddy/RESUME#개인-SNS)**
 
+<br>
+
 - **[개인 프로젝트](https://github.com/applebuddy/RESUME#개인-프로젝트)**
   - 멍구스토리
   - 전역일계산기
