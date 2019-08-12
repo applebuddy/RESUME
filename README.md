@@ -130,10 +130,8 @@
 
 <br>
 <div>
-<img width="300" src="https://user-images.githubusercontent.com/4410021/62833896-897cbd00-bc80-11e9-96f2-3c1e72ba324c.png">      <img width="300" src="https://user-images.githubusercontent.com/4410021/62833930-f3956200-bc80-11e9-9a85-83007d070df5.png"> 
+<img width="300" src="https://user-images.githubusercontent.com/4410021/62833896-897cbd00-bc80-11e9-96f2-3c1e72ba324c.png"><img width="300" src="https://user-images.githubusercontent.com/4410021/62857502-c5705a80-bd32-11e9-9091-22e889783695.png"> 
 </div>
-
-
 <br>
 <br>
 <br>
