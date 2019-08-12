@@ -5,7 +5,7 @@
 
 <br>
 
-- **[개인 SNS](https://github.com/applebuddy/RESUME#개인-SNS)**
+- **[개인 신상](https://github.com/applebuddy/RESUME#개인-신상)**
 
 <br>
 
@@ -40,11 +40,23 @@
 <br>
 <br>
 
-# 개인 SNS
-
+# 개인 신상
+### 이름
+- 민경태 (Min KyeongTae)
+### 생년월일 
+- '1992. 11. 19.
+### 병역
+- 군필
+  - 육군 중위 만기제대
+  - '2015. 03. ~ '2018. 06.
+### 개인 SNS
+- E-mail : kyeongtea92@gmail.com
 - Github : https://github.com/applebuddy
 - 기술블로그 : https://0urtrees.tistory.com
 - 일반블로그 : https://blog.naver.com/koungtea92
+### 학력
+- 인천대학교 컴퓨터공학과(졸업)
+- 2011. 03. ~ 2015. 02.
 
 <br>
 <br>
