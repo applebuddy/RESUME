@@ -115,7 +115,7 @@
 - 기간 : 2개월 (2018. 12. ~ 2019. 02.)
 - 소속 : 개인프로젝트
 - 역할 : 1인 개발, 디자인
-- 사용기술 : Swift, Firebase, gCloud
+- 사용기술 : Swift, nodejs, Firebase(DB, Cloud function), gCloud crontab
 - 개발후기 : 기업체 고객 타겟으로 거래소 암호화폐의 가격푸시 알람 앱을 만들었습니다. 거래소 암호화폐의 실시간 가격확인, 타겟가격 도달 시 푸시알람기능을 구현했습니다.
   - Github 주소 : https://github.com/applebuddy/HitPriceAlarm
   - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221452486594
@@ -138,6 +138,7 @@
 - 소속 : 개인프로젝트
 - 역할 : 1인 개발
 - 사용기술 : Swift
+- 활용 프레임워크 : AlomoFire
 - 개발후기 : 이전 개인프로젝트 보다 보다 실용성있는 앱을 만들어보고자 알람앱 프로젝트를 진행 중입니다. 암호화폐거래소 빗썸의 API를 활용해 다양한 정보를 제공하고 알람받을 수 있는 앱을 개발 중입니다.
   - Github 주소 : https://github.com/applebuddy/CoinPriceCheck
 
@@ -179,6 +180,7 @@
 - 소속 : 개인프로젝트
 - 역할 : 1인 개발
 - 사용기술 : Swift
+- 활용 프레임워크 : MapKit, CoreLocation
 - 개발후기 : 코드만을 활용한 애플 날씨앱의 카피앱 프로젝트입니다. 스토리보드 사용없이 코드로 구현한 프로젝트입니다. 다수의 API데이터 처리 간 많은 문제점을 마주하고 해결해볼 수 있었으며 그 외 코드구조에 대해서도 고민을 해보게 되었습니다. 기본구현 이후 부족한 부분에 대한 공부와 병행하며 코드 구조 리펙토링을 진행 중에 있습니다.
   - Github 주소 : https://github.com/applebuddy/WeatherCopyApp
 
