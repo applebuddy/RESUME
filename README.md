@@ -118,7 +118,6 @@
 - 사용기술 : Swift, nodejs, Firebase(DB, Cloud function), gCloud crontab
 - 개발후기 : 기업체 고객 타겟으로 거래소 암호화폐의 가격푸시 알람 앱을 만들었습니다. 거래소 암호화폐의 실시간 가격확인, 타겟가격 도달 시 푸시알람기능을 구현했습니다.
   - Github 주소 : https://github.com/applebuddy/HitPriceAlarm
-  - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221452486594
 
 <br>
 <div>
