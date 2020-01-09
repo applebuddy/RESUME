@@ -17,7 +17,7 @@
 
 <br>
 
-### [협업 프로젝트](https://github.com/applebuddy/RESUME#fash-ios%EC%95%B1)
+### [협업 프로젝트](https://github.com/applebuddy/RESUME#%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)
 - 코디추천앱 Fash
 
 <br>
