@@ -17,6 +17,10 @@
 
 <br>
 
+### [협업 프로젝트](https://github.com/applebuddy/RESUME#fash-ios%EC%95%B1)
+- 코디추천앱 Fash
+
+<br>
 
 ### [학습용 개인 프로젝트](https://github.com/applebuddy/RESUME#학습용-개인-프로젝트)
 - 부스트코스 프로젝트
