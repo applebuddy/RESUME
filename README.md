@@ -158,9 +158,9 @@
 - 개요 : 딥러닝 기반 코디추천 앱 (iOS 앱스토어 배포)
 - 기간 : 2019. 11.~
 - 소속 : 프로그라피
-- 역할 : iOS개발
-- 사용기술 : Swift, CoreLocation
-- 개발후기 : 딥러닝 기반 옷장관리 및 코디추천 앱 개발
+- 역할 : iOS개발(iOS 단독개발)
+- 사용기술 : Swift, CoreLocation, Pytorch
+- 개발후기 : 딥러닝(Pytorch) 기반 옷장관리 및 코디추천 앱 개발
   - Fash AppStore 링크 : https://apps.apple.com/kr/app/fash/id1492692916
 
 
@@ -287,7 +287,7 @@
 - 개요 : 프로그라피 IT연합동아리 iOS개발 활동
 - 기간 : 2019. 09. 21. ~
 - 역할 ; 프론트엔드 iOS 개발
-  - IT연합 개발동아리 프로그라피 참여, 코디추천 앱 Fash 개발 및 운영 
+  - IT연합 개발동아리 프로그라피 활동, 코디추천 앱 Fash 개발 및 운영 
 - 프로그라피 공식 홈페이지 링크 : http://prography.org/
 <div>
 <img width=200 src="https://user-images.githubusercontent.com/4410021/64698156-4e6ae500-d4dd-11e9-88e6-d69f8507b149.png">  
