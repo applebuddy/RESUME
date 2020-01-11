@@ -278,6 +278,7 @@
   - 커뮤니티 운영 및 소통, 커뮤니티 활동 간 정보교류 목적 카카오톡 오픈채팅방 운영
 - 커뮤니티 링크 :
   - 부스트코스 iOS개발자 스터디그룹 오픈채팅방 : https://open.kakao.com/o/gZ6pX4gb
+  - Swift AlgorithmClub 오픈채팅방 : https://open.kakao.com/o/gfCPxcJb
 
 <br>
 <br>
