@@ -159,8 +159,8 @@
 - 기간 : 2019. 11.~
 - 소속 : 프로그라피
 - 역할 : iOS개발(iOS 단독개발)
-- 사용기술 : Swift, CoreLocation, Pytorch
-- 개발후기 : 딥러닝(Pytorch) 기반 옷장관리 및 코디추천 앱 개발
+- 사용기술 : Swift, Pytorch
+- 개발후기 : 딥러닝(Pytorch) 기반 옷장관리 및 코디추천 앱 개발, 딥러닝 & 백엔드 협업 개발경험
   - Fash AppStore 링크 : https://apps.apple.com/kr/app/fash/id1492692916
 
 
@@ -183,7 +183,7 @@
 - 소속 : 개인프로젝트
 - 역할 : 1인 개발
 - 사용기술 : Swift
-- 개발후기 : 스토리보드 없이 코드만으로 기본 계산기 기능 및 레이아웃 구성연습, 온라인 개발스터디 간 앱 실행과정 설명.
+- 개발후기 : 스토리보드 없이 코드만으로 기본 계산기 기능 및 레이아웃 구성연습, 온라인 개발스터디 간 앱 실행과정 설명
   - Github 주소 : https://github.com/applebuddy/SimpleCalculator
 
 
