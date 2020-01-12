@@ -9,16 +9,16 @@
 
 <br>
 
+### [협업 프로젝트](https://github.com/applebuddy/RESUME#%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)
+- 코디추천앱 Fash
+
+<br>
+
 ### [개인 프로젝트](https://github.com/applebuddy/RESUME#개인-프로젝트)
 - 멍구스토리
 - 전역일계산기
 - 히트가격알람
 - 코인가격알람
-
-<br>
-
-### [협업 프로젝트](https://github.com/applebuddy/RESUME#%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)
-- 코디추천앱 Fash
 
 <br>
 
@@ -84,9 +84,29 @@
 <br>
 
 # 프로젝트
-## 개인 프로젝트
 
 <br>
+
+## 협업 프로젝트
+
+### Fash (iOS앱)
+- 개요 : 딥러닝 기반 코디추천 앱 (iOS 앱스토어 배포)
+- 기간 : 2019. 11.~
+- 소속 : 프로그라피
+- 역할 : iOS개발(iOS 단독개발)
+- 사용기술 : Swift, Pytorch
+- 개발후기 : 딥러닝(Pytorch) 기반 옷장관리 및 코디추천 앱 개발, 딥러닝 & 백엔드 협업 개발경험
+  - Fash AppStore 링크 : https://apps.apple.com/kr/app/fash/id1492692916
+  
+<br>
+<div>
+<img width="300" src="https://user-images.githubusercontent.com/4410021/72028629-900e6f80-32c6-11ea-919e-d0868c086d2c.gif">
+</div>
+<br>
+<br>
+<br>
+
+## 개인 프로젝트
 
 ### 멍구스토리 (크로스플랫폼 앱)
 - 개요 : Cocos2d-x 크로스플랫폼 기반 2D 디펜스 게임 (2015. 02. 안드로이드 배포, 현재 게시 중단)
@@ -152,30 +172,7 @@
 <br>
 <br>
 
-## 협업 프로젝트
-
-### Fash (iOS앱)
-- 개요 : 딥러닝 기반 코디추천 앱 (iOS 앱스토어 배포)
-- 기간 : 2019. 11.~
-- 소속 : 프로그라피
-- 역할 : iOS개발(iOS 단독개발)
-- 사용기술 : Swift, Pytorch
-- 개발후기 : 딥러닝(Pytorch) 기반 옷장관리 및 코디추천 앱 개발, 딥러닝 & 백엔드 협업 개발경험
-  - Fash AppStore 링크 : https://apps.apple.com/kr/app/fash/id1492692916
-
-
-<br>
-<div>
-<img width="300" src="https://user-images.githubusercontent.com/4410021/72028629-900e6f80-32c6-11ea-919e-d0868c086d2c.gif">
-</div>
-
-<br>
-<br>
-<br>
-
 ## 학습용 개인 프로젝트
-
-<br>
 
 ### 간단계산기 (iOS앱)
 - 개요 : 코드만을 사용해서 구현한 기본 계산기 앱
