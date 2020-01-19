@@ -100,7 +100,7 @@
   
 <br>
 <div>
-<img width="300" src="https://user-images.githubusercontent.com/4410021/72375343-3fc46100-374f-11ea-8bf7-7084fe3bab5b.gif">
+<img width="300" src="https://user-images.githubusercontent.com/4410021/72687226-218ba600-3b3f-11ea-9bac-82e33e85edd1.gif">
 </div>
 <br>
 <br>
