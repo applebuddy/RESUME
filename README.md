@@ -16,17 +16,14 @@
 
 ### [개인 프로젝트](https://github.com/applebuddy/RESUME#개인-프로젝트)
 - 멍구스토리
-- 전역일계산기
+- API 영화정보 앱
 - 히트가격알람
-- 코인가격알람
+- 전역일계산기
 
 <br>
 
 ### [학습용 개인 프로젝트](https://github.com/applebuddy/RESUME#학습용-개인-프로젝트)
-- 부스트코스 프로젝트
-- 간단계산기
 - 애플 날씨카피앱
-- API 영화정보 앱
 
 <br>
 
@@ -108,6 +105,19 @@
 
 ## 개인 프로젝트
 
+### API 영화정보 앱 (iOS앱)
+- 개요 : 해외영화 API를 이용한 API활용 영화정보 제공앱
+- 기간 : 
+- 소속 : 개인프로젝트
+- 역할 : 1인 개발
+- 사용기술 : Swift
+- 해외 영화정보 API를 활용한 영화정보, 이미지 데이터 네트워킹 처리 및 커스텀 MVC 델리게이션 패턴 구현 연습 프로젝트.
+- Github 주소 : https://github.com/applebuddy/MovieInfoAPIApp
+
+<br>
+<br>
+<br>
+
 ### 멍구스토리 (크로스플랫폼 앱)
 - 개요 : Cocos2d-x 크로스플랫폼 기반 2D 디펜스 게임 (2015. 02. 안드로이드 배포, 현재 게시 중단)
 - 기간 : 2014. 10. ~ 2015. 02.
@@ -126,25 +136,6 @@
 <p>
 <div>
 <img width="400" src="https://user-images.githubusercontent.com/4410021/62833680-bed3db80-bc7d-11e9-9a80-7be1d2769657.png">      <img width="400" src="https://user-images.githubusercontent.com/4410021/62833681-c1363580-bc7d-11e9-9523-731d259d5920.png"> 
-</div>
-
-<br>
-<br>
-<br>
-
-### 전역일계산기 (iOS앱)
-- 개요 : 육군, 해군, 공군 전역일 계산앱 (iOS 앱스토어 배포 후 현재 게시 )
-- 기간 : 2018. 11. ~ 2018. 12.
-- 소속 : 개인프로젝트
-- 역할 : 1인 개발, 디자인
-- 사용기술 : Swift
-- 개발후기 : 앱 배포경험, 전역일 계산기능 구현
-  - Github 주소 : https://github.com/applebuddy/DischargeDateCalculator
-  - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221423501380
-
-<br>
-<div>
-<img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833770-1b83c600-bc7f-11e9-8546-6b174d56ec74.png">      <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833771-1cb4f300-bc7f-11e9-84ae-673d6e71616a.png">       <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62879429-10579580-bd66-11e9-8219-7c20309fe5a5.png"> 
 </div>
 
 <br>
@@ -172,27 +163,26 @@
 <br>
 <br>
 
-## 학습용 개인 프로젝트
-
-### 간단계산기 (iOS앱)
-- 개요 : 코드만을 사용해서 구현한 기본 계산기 앱
-- 기간 : 2019. 07.
+### 전역일계산기 (iOS앱)
+- 개요 : 육군, 해군, 공군 전역일 계산앱 (iOS 앱스토어 배포 후 현재 게시 )
+- 기간 : 2018. 11. ~ 2018. 12.
 - 소속 : 개인프로젝트
-- 역할 : 1인 개발
+- 역할 : 1인 개발, 디자인
 - 사용기술 : Swift
-- 개발후기 : 스토리보드 없이 코드만으로 기본 계산기 기능 및 레이아웃 구성연습, 온라인 개발스터디 간 앱 실행과정 설명
-  - Github 주소 : https://github.com/applebuddy/SimpleCalculator
-
+- 개발후기 : 앱 배포경험, 전역일 계산기능 구현
+  - Github 주소 : https://github.com/applebuddy/DischargeDateCalculator
+  - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221423501380
 
 <br>
 <div>
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833913-c2b52d00-bc80-11e9-9d83-e60bf82e3142.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833914-c6e14a80-bc80-11e9-927f-852061569b7c.png"> 
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833916-ca74d180-bc80-11e9-8064-abf323122460.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833917-cc3e9500-bc80-11e9-880e-cdb86aa297d3.png"> 
+<img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833770-1b83c600-bc7f-11e9-8546-6b174d56ec74.png">      <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833771-1cb4f300-bc7f-11e9-84ae-673d6e71616a.png">       <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62879429-10579580-bd66-11e9-8219-7c20309fe5a5.png"> 
 </div>
 
 <br>
 <br>
 <br>
+
+## 학습용 개인 프로젝트
 
 ### 애플 날씨카피앱 (iOS앱)
 - 개요 : 순수 코드만으로 구현한 애플 기본날씨앱 카피앱
@@ -213,18 +203,6 @@
 <br>
 <br>
 
-### API 영화정보 앱 (iOS앱)
-- 개요 : 해외영화 API를 이용한 API활용 영화정보 제공앱
-- 기간 : 
-- 소속 : 개인프로젝트
-- 역할 : 1인 개발
-- 사용기술 : Swift
-- 해외 영화정보 API를 활용한 영화정보, 이미지 데이터 네트워킹 처리 및 커스텀 MVC 델리게이션 패턴 구현 연습 프로젝트.
-- Github 주소 : https://github.com/applebuddy/MovieInfoAPIApp
-
-<br>
-<br>
-<br>
 
 # 대외 활동
 ## 부스트코스 iOS과정 수료
