@@ -107,7 +107,7 @@
 
 ### API 영화정보 앱 (iOS앱)
 - 개요 : 해외영화 API를 이용한 API활용 영화정보 제공앱
-- 기간 : 
+- 기간 : 2019. 9.
 - 소속 : 개인프로젝트
 - 역할 : 1인 개발
 - 사용기술 : Swift
@@ -148,7 +148,7 @@
 - 소속 : 개인프로젝트
 - 역할 : 1인 개발, 디자인
 - 사용기술 : Swift, Firebase, gCloud
-- 개발후기 : 구글클라우스, Firebase 활용 푸시알람앱 기능 구현 경험
+- 개발후기 : 구글클라우, Firebase 활용 푸시알람앱 기능 구현 경험
   - Github 주소 : https://github.com/applebuddy/HitPriceAlarm
 
 <br>
