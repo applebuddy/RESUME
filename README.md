@@ -94,7 +94,7 @@
 - 역할 : iOS개발(iOS 단독개발)
 - 사용기술 : Swift, Pytorch
 - 개발후기 : 딥러닝(Pytorch) 기반 옷장관리 및 코디추천 앱 개발, 딥러닝 & 백엔드 협업 개발경험
-  * Pytorch 딥러닝 결과 연동문제로 딥러닝 기능 미적용 중 (적용 예정)
+  * Pytorch 딥러닝 결과 연동문제로 현재 딥러닝 기능 미적용 (적용 예정)
   - Fash AppStore 링크 : https://apps.apple.com/kr/app/fash/id1492692916
   
 <br>
