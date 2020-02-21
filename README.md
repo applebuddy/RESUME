@@ -5,16 +5,16 @@
 
 <br>
 
-### [개인 신상](https://github.com/applebuddy/RESUME#개인-신상)
+### [개인 신상](https://github.com/applebuddy/RESUME#개인-신상-1)
 
 <br>
 
-### [협업 프로젝트](https://github.com/applebuddy/RESUME#%ED%98%91%EC%97%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1)
+### [협업 프로젝트](https://github.com/applebuddy/RESUME#협업-프로젝트-1)
 - 코디추천앱 Fash
 
 <br>
 
-### [개인 프로젝트](https://github.com/applebuddy/RESUME#개인-프로젝트)
+### [개인 프로젝트](https://github.com/applebuddy/RESUME#개인-프로젝트-1)
 - 멍구스토리
 - API 영화정보 앱
 - 히트가격알람
@@ -22,12 +22,12 @@
 
 <br>
 
-### [학습용 개인 프로젝트](https://github.com/applebuddy/RESUME#학습용-개인-프로젝트)
+### [학습용 개인 프로젝트](https://github.com/applebuddy/RESUME#학습용-개인-프로젝트-1)
 - 애플 날씨카피앱
 
 <br>
 
-### [대외 활동](https://github.com/applebuddy/RESUME#대외-)
+### [대외 활동](https://github.com/applebuddy/RESUME#대외-활동-1)
 - 커넥트재단 부스트코스 iOS 과정
 - 커넥트재단 부스트코스 iOS 에이스
 - 개발자 오픈채팅방 운영
