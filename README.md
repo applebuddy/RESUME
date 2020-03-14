@@ -53,6 +53,7 @@
 - Github : https://github.com/applebuddy
 - 기술블로그 : https://0urtrees.tistory.com
 - 일반블로그 : https://blog.naver.com/koungtea92
+- BOJ : https://www.acmicpc.net/user/applebuddy
 ### 학력
 - 인천대학교 컴퓨터공학과(졸업)
   - '2011. 03. ~ '2015. 02.
@@ -129,7 +130,6 @@
 - 개발환경 : macOS(Xcode), windows(앱 포팅 간 사용)
 - 사용기술 : C++, Cocos2d-x 크로스플랫폼 엔진
 - 개발후기 : 첫 앱 배포경험, 500명 이상의 다운로드 기록. 
-  - Github 주소 :  https://github.com/applebuddy/MungGuStory
   - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/220287515417
 
 <br>
@@ -152,7 +152,6 @@
 - 역할 : 1인 개발, 디자인
 - 사용기술 : Swift, Firebase, gCloud
 - 개발후기 : 구글클라우, Firebase 활용 푸시알람앱 기능 구현 경험
-  - Github 주소 : https://github.com/applebuddy/HitPriceAlarm
 
 <br>
 <div>
@@ -173,7 +172,6 @@
 - 역할 : 1인 개발, 디자인
 - 사용기술 : Swift
 - 개발후기 : 앱 배포경험, 전역일 계산기능 구현
-  - Github 주소 : https://github.com/applebuddy/DischargeDateCalculator
   - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221423501380
 
 <br>
