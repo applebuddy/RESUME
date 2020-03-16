@@ -191,7 +191,10 @@
 - 소속 : 개인프로젝트 
 - 역할 : 1인 개발
 - 사용기술 : Swift
-- 세부설명 : 코드+xib / 스토리보드+xib 두가지 방식 메모앱 개발, XCTest UITest 메서드 구현연습
+- 세부설명
+  - 코드+xib / 스토리보드+xib 두가지 방식 메모앱 개발, XCTest UITest 메서드 구현연습
+  - 라인 챌린지 지원 후 라인 리뷰어로부터 UI 인터페이스, 데이터 관리 등 다양한 피드백 수신, 보완 중
+  - Github 주소 : https://github.com/applebuddy/MemoProject
   
 <br>
 <br>
