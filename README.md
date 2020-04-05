@@ -54,9 +54,11 @@
 - 기술블로그 : https://0urtrees.tistory.com
 - 일반블로그 : https://blog.naver.com/koungtea92
 - BOJ : https://www.acmicpc.net/user/applebuddy
+
 ### 학력
 - 인천대학교 컴퓨터공학과(졸업)
   - '2011. 03. ~ '2015. 02.
+
 ### 자격증
 - 어학
   - TOEIC SPEAKING Lv6 (140)
@@ -78,6 +80,11 @@
 - 헌혈유공장 금장
   - '2016. 12.
   - 헌혈 88회
+
+### 경력
+- Hyundai Motor Group
+  - app developer
+    - '2020. 4. ~
 
 <br>
 <br>
