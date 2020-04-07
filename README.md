@@ -83,7 +83,7 @@
 
 ### 경력
 - Hyundai Motor Group
-  - app developer
+  - iOS developer
     - '2020. 4. ~
 
 <br>
