@@ -15,10 +15,10 @@
 <br>
 
 ### [개인 프로젝트](https://github.com/applebuddy/RESUME#개인-프로젝트-1)
-- 멍구스토리
 - API 영화정보 앱
 - 히트가격알람
 - 전역일계산기
+- 멍구스토리
 
 <br>
 
@@ -37,7 +37,7 @@
 <br>
 <br>
 
-### 많은 사람들에게 열정을 나누고 싶은 개발자입니다.
+### 많은 사람들에게 열정과 지식을 나누고 싶은 개발자입니다.
 
 <br>
 <br>
@@ -52,7 +52,6 @@
 - E-mail : kyeongtea92@gmail.com
 - Github : https://github.com/applebuddy
 - 기술블로그 : https://0urtrees.tistory.com
-- 일반블로그 : https://blog.naver.com/koungtea92
 - BOJ : https://www.acmicpc.net/user/applebuddy
 
 ### 학력
@@ -83,7 +82,7 @@
 
 ### 경력
 - Hyundai Motor Group
-  - iOS developer
+  - iOS Developer
     - '2020. 4. ~
 
 <br>
@@ -103,7 +102,7 @@
 - 역할 : iOS개발(iOS 단독개발)
 - 사용기술 : Swift, Pytorch
 - 개발후기 : 딥러닝(Pytorch) 기반 옷장관리 및 코디추천 앱 개발, 딥러닝 & 백엔드 협업 개발경험
-  * Pytorch 딥러닝 결과 연동문제로 현재 딥러닝 기능 미적용 (적용 예정)
+  * Pytorch 딥러닝모델 ~ iOS 간 연동문제로 현재 딥러닝 기능 미적용
   - Fash AppStore 링크 : https://apps.apple.com/kr/app/fash/id1492692916
   
 <br>
@@ -129,8 +128,46 @@
 <br>
 <br>
 
+### 히트가격알람 (iOS앱)
+- 개요 : 암호화폐거래소 가격 푸시알람앱 (iOS 앱스토어 배포 후 현 게시 중단)
+- 기간 : 2018. 12. ~ 2019. 02.
+- 소속 : 개인프로젝트
+- 역할 : 1인 개발, 디자인
+- 사용기술 : Swift, Firebase, gCloud
+- 개발후기 : 구글클라우, Firebase 활용 푸시알람앱 기능 구현 경험
+
+<br>
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/4410021/62833823-cf855100-bc7f-11e9-9538-4352c654d966.png">  
+  <img width="200" src="https://user-images.githubusercontent.com/4410021/62833826-d4e29b80-bc7f-11e9-884a-3f3e00fe147e.png">   
+  <img width="200" src="https://user-images.githubusercontent.com/4410021/62833851-22f79f00-bc80-11e9-93ef-1548f7451f72.png"> 
+<img width="200" src="https://user-images.githubusercontent.com/4410021/62833825-d318d800-bc7f-11e9-9b97-5f9066339f48.png">      
+</div>
+
+<br>
+<br>
+<br>
+
+### 전역일계산기 (iOS앱)
+- 개요 : 육군, 해군, 공군 전역일 계산앱 (iOS 앱스토어 배포 후 현 게시 중단)
+- 기간 : 2018. 11. ~ 2018. 12.
+- 소속 : 개인프로젝트
+- 역할 : 1인 개발, 디자인
+- 사용기술 : Swift
+- 개발후기 : 앱 배포경험, 전역일 계산기능 구현
+  - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221423501380
+
+<br>
+<div>
+<img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833770-1b83c600-bc7f-11e9-8546-6b174d56ec74.png">      <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833771-1cb4f300-bc7f-11e9-84ae-673d6e71616a.png">       <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62879429-10579580-bd66-11e9-8219-7c20309fe5a5.png"> 
+</div>
+
+<br>
+<br>
+<br>
+
 ### 멍구스토리 (크로스플랫폼 앱)
-- 개요 : Cocos2d-x 크로스플랫폼 기반 2D 디펜스 게임 (2015. 02. 안드로이드 배포, 현재 게시 중단)
+- 개요 : Cocos2d-x 크로스플랫폼 기반 2D 디펜스 게임 (2015. 02. 안드로이드 배포, 현 게시 중단)
 - 기간 : 2014. 10. ~ 2015. 02.
 - 소속 : 개인프로젝트
 - 역할 : 1인 개발, 디자인
@@ -152,44 +189,6 @@
 <br>
 <br>
 
-### 히트가격알람 (iOS앱)
-- 개요 : 모 암호화폐거래소 타켓 가격 푸시알람앱 (iOS 앱스토어 배포 후 현재 게시 중단)
-- 기간 : 2018. 12. ~ 2019. 02.
-- 소속 : 개인프로젝트
-- 역할 : 1인 개발, 디자인
-- 사용기술 : Swift, Firebase, gCloud
-- 개발후기 : 구글클라우, Firebase 활용 푸시알람앱 기능 구현 경험
-
-<br>
-<div>
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833823-cf855100-bc7f-11e9-9538-4352c654d966.png">  
-  <img width="200" src="https://user-images.githubusercontent.com/4410021/62833826-d4e29b80-bc7f-11e9-884a-3f3e00fe147e.png">   
-  <img width="200" src="https://user-images.githubusercontent.com/4410021/62833851-22f79f00-bc80-11e9-93ef-1548f7451f72.png"> 
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833825-d318d800-bc7f-11e9-9b97-5f9066339f48.png">      
-</div>
-
-<br>
-<br>
-<br>
-
-### 전역일계산기 (iOS앱)
-- 개요 : 육군, 해군, 공군 전역일 계산앱 (iOS 앱스토어 배포 후 현재 게시 )
-- 기간 : 2018. 11. ~ 2018. 12.
-- 소속 : 개인프로젝트
-- 역할 : 1인 개발, 디자인
-- 사용기술 : Swift
-- 개발후기 : 앱 배포경험, 전역일 계산기능 구현
-  - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221423501380
-
-<br>
-<div>
-<img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833770-1b83c600-bc7f-11e9-8546-6b174d56ec74.png">      <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833771-1cb4f300-bc7f-11e9-84ae-673d6e71616a.png">       <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62879429-10579580-bd66-11e9-8219-7c20309fe5a5.png"> 
-</div>
-
-<br>
-<br>
-<br>
-
 ## 학습용 개인 프로젝트
 
 ### 메모앱 프로젝트 (iOS앱)
@@ -200,7 +199,7 @@
 - 사용기술 : Swift
 - 세부설명
   - 코드+xib / 스토리보드+xib 두가지 방식 메모앱 개발, XCTest UITest 메서드 구현연습
-  - 라인 챌린지 지원 후 라인 리뷰어로부터 UI 인터페이스, 데이터 관리 등 다양한 피드백 수신, 보완 중
+  - 라인 챌린지 지원 후 라인 리뷰어로부터 UI 인터페이스, 데이터 관리 등 다양한 피드백 수신
   - Github 주소 : https://github.com/applebuddy/MemoProject
   
 <br>
@@ -215,7 +214,6 @@
 - 사용기술 : Swift
 - 활용 프레임워크 : MapKit, CoreLocation
 - 세부설명 : 스토리보드 사용없는 순수 코드구현 프로젝트, 페이지뷰, 다중 API 처리 구현경험.
-  - Github 주소 : https://github.com/applebuddy/WeatherCopyApp
 
 <div>
 <img width="200" src="https://user-images.githubusercontent.com/4410021/62603585-32e64a80-b931-11e9-88c3-86c960f40922.jpeg">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62603608-3bd71c00-b931-11e9-8b46-ea0c7b2dfc79.jpeg"> 
@@ -263,7 +261,7 @@
 - 사용기술 : Swift
 - 세부설명 : 부스트코스 iOS과정 수료자로써 부스트코스 에이스과정에 참여, 페이스메이커 활동으로 부스트코스 수강생 간 피드백 교류
 
-<img width="350" alt="페이스메이커 활동 인증서" src="https://user-images.githubusercontent.com/4410021/70055590-2f33ad80-161d-11ea-8609-de4578c8c9bb.png">
+<img width="350" alt="페이스메이커 활동 인증서" src="https://user-images.githubusercontent.com/4410021/79069020-f2cc3880-7d05-11ea-87a9-150cd77a3ad3.png">
 
 <br>
 <br>
@@ -274,7 +272,7 @@
 - 기간 : 2019. 03.~
 - 역할 : 커뮤니티 관리자
   - 커뮤니티 운영 및 소통, 커뮤니티 활동 간 스터디활동 및 정보교류 목적 카카오톡 오픈채팅방 운영
-  - 매일 swift 알고리즘 문제선정 및 풀이 주도
+  - 매일 swift 알고리즘 문제선정 및 풀이, 토론 주도
 - 커뮤니티 링크 :
   - 부스트코스 iOS개발자 스터디그룹 오픈채팅방 : https://open.kakao.com/o/gZ6pX4gb
   - Swift AlgorithmClub 오픈채팅방 : https://open.kakao.com/o/gfCPxcJb
@@ -284,11 +282,11 @@
 <br>
 
 ## 프로그라피 활동
-- 개요 : 프로그라피 IT개발모임 5기 iOS개발 활동 및 6기 iOS 멘토활동
+- 개요 : 프로그라피 IT개발모임 5기 iOS개발 활동, 6기 iOS 멘토활동
 - 기간 : 2019. 09. 21. ~
 - 역할 ; 프론트엔드 iOS 개발
-  - IT연합 개발모임 프로그라피 5기 활동, 코디추천 앱 Fash 개발 및 운영 중
-  - 6기 iOS 멘토로 활동 중 
+  - 5기 활동, 코디추천 앱 Fash 개발 및 운영
+  - 6기 iOS 멘토 활동
 - 프로그라피 공식 홈페이지 링크 : http://prography.org/
 <div>
 <img width=200 src="https://user-images.githubusercontent.com/4410021/64698156-4e6ae500-d4dd-11e9-88e6-d69f8507b149.png">  
