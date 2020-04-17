@@ -48,10 +48,11 @@
 - 군필
   - 육군 중위 만기제대 (정보통신)
     - '2015. 03. ~ '2018. 06.
+    
 ### 개인 SNS
-- E-mail : kyeongtea92@gmail.com
 - Github : https://github.com/applebuddy
 - 기술블로그 : https://0urtrees.tistory.com
+- E-mail : kyeongtea92@gmail.com
 - BOJ : https://www.acmicpc.net/user/applebuddy
 
 ### 학력
@@ -236,18 +237,6 @@
 - 수료증 세부정보 링크 : http://www.edwith.org/certificate/A20190416-360915?langCode=ko
 
 <img width="600" alt="부스트코스 수료증 인증" src="https://user-images.githubusercontent.com/4410021/70055077-29899800-161c-11ea-8867-56ad4e662776.png">
-<br>
-
-<div>
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833970-9057ff80-bc81-11e9-8f4a-f6116c316347.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833972-92ba5980-bc81-11e9-83cb-02648826b3c0.png"> 
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833973-951cb380-bc81-11e9-9b2d-80fbd5133779.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833977-98b03a80-bc81-11e9-801b-42fa5a2b6681.png"> 
-</div>
-<p>
-<div>
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833979-9a79fe00-bc81-11e9-830d-5bdf546919e2.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833982-9cdc5800-bc81-11e9-914e-a52804a62432.png"> 
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833983-9f3eb200-bc81-11e9-97d4-8dc626e8c004.png">      <img width="200" src="https://user-images.githubusercontent.com/4410021/62833985-a1a10c00-bc81-11e9-9aa2-cb78a719eee2.png"> 
-</div>
-
 
 <br>
 <br>
@@ -272,7 +261,7 @@
 - 기간 : 2019. 03.~
 - 역할 : 커뮤니티 관리자
   - 커뮤니티 운영 및 소통, 커뮤니티 활동 간 스터디활동 및 정보교류 목적 카카오톡 오픈채팅방 운영
-  - 매일 swift 알고리즘 문제선정 및 풀이, 토론 주도
+  - swift 알고리즘 문제선정 및 풀이, 토론 주도
 - 커뮤니티 링크 :
   - 부스트코스 iOS개발자 스터디그룹 오픈채팅방 : https://open.kakao.com/o/gZ6pX4gb
   - Swift AlgorithmClub 오픈채팅방 : https://open.kakao.com/o/gfCPxcJb
