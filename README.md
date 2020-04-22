@@ -271,12 +271,10 @@
 <br>
 
 ## 프로그라피 활동
-- 개요 : 프로그라피 IT개발모임 5기 iOS개발 활동, 6기 iOS 멘토활동
-- 기간 : 2019. 09. 21. ~
+- 개요 : 프로그라피 IT개발모임 5기 iOS개발 활동
+- 기간 : 2019. 09. 21. ~ 2020. 03.
 - 역할 ; 프론트엔드 iOS 개발
   - 5기 활동, 코디추천 앱 Fash 개발 및 운영
-  - 6기 iOS 멘토 활동
-- 프로그라피 공식 홈페이지 링크 : http://prography.org/
 <div>
 <img width=200 src="https://user-images.githubusercontent.com/4410021/64698156-4e6ae500-d4dd-11e9-88e6-d69f8507b149.png">  
 </div>
