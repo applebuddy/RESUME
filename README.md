@@ -32,18 +32,17 @@
 - 커넥트재단 부스트코스 iOS 과정
 - 커넥트재단 부스트코스 iOS 에이스
 - 개발자 오픈채팅방 운영
-- IT개발모임 프로그라피 활동
-
-<br>
-<br>
-
-### 많은 사람들에게 열정과 지식을 나누고 싶은 개발자입니다.
+- IT개발모임 프로그라피 5기 활동
 
 <br>
 <br>
 <br>
 
 # 개인 신상
+- **많은 사람들에게 열정과 지식을 나누고 싶은 개발자입니다.**
+
+<br>
+
 ### 병역
 - 군필
   - 육군 중위 만기제대 (정보통신)
@@ -138,14 +137,6 @@
 - 개발후기 : 구글클라우, Firebase 활용 푸시알람앱 기능 구현 경험
 
 <br>
-<div>
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833823-cf855100-bc7f-11e9-9538-4352c654d966.png">  
-  <img width="200" src="https://user-images.githubusercontent.com/4410021/62833826-d4e29b80-bc7f-11e9-884a-3f3e00fe147e.png">   
-  <img width="200" src="https://user-images.githubusercontent.com/4410021/62833851-22f79f00-bc80-11e9-93ef-1548f7451f72.png"> 
-<img width="200" src="https://user-images.githubusercontent.com/4410021/62833825-d318d800-bc7f-11e9-9b97-5f9066339f48.png">      
-</div>
-
-<br>
 <br>
 <br>
 
@@ -200,7 +191,7 @@
 - 사용기술 : Swift
 - 세부설명
   - 코드+xib / 스토리보드+xib 두가지 방식 메모앱 개발, XCTest UITest 메서드 구현연습
-  - 라인 챌린지 지원 후 라인 리뷰어로부터 UI 인터페이스, 데이터 관리 등 다양한 피드백 수신
+  - 라인 챌린지 지원 후 라인 리뷰어로부터 UI 인터페이스, 데이터 관리 등 다양한 피드백 
   - Github 주소 : https://github.com/applebuddy/MemoProject
   
 <br>
@@ -208,7 +199,7 @@
 <br>
 
 ### 애플 날씨카피앱 (iOS앱)
-- 개요 : 순수 코드만으로 구현한 애플 기본날씨앱 카피앱
+- 개요 : 순수 코드 구현 애플 기본날씨앱 카피앱
 - 기간 : 2019. 08.
 - 소속 : 개인프로젝트
 - 역할 : 1인 개발
@@ -274,7 +265,7 @@
 - 개요 : 프로그라피 IT개발모임 5기 iOS개발 활동
 - 기간 : 2019. 09. 21. ~ 2020. 03.
 - 역할 ; 프론트엔드 iOS 개발
-  - 5기 활동, 코디추천 앱 Fash 개발 및 운영
+  - 5기 활동, 코디추천 앱 Fash 개발 및 운영 경험
 <div>
 <img width=200 src="https://user-images.githubusercontent.com/4410021/64698156-4e6ae500-d4dd-11e9-88e6-d69f8507b149.png">  
 </div>
