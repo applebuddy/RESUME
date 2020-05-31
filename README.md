@@ -50,15 +50,15 @@
     
 ### 개인 SNS
 - Github : https://github.com/applebuddy
-- 기술블로그 : https://0urtrees.tistory.com
-- E-mail : kyeongtea92@gmail.com
+- Tech-Blog : https://0urtrees.tistory.com
 - BOJ : https://www.acmicpc.net/user/applebuddy
+- E-mail : kyeongtea92@gmail.com
 
 ### 학력
-- 인천대학교
-  - '2011. 03. ~ '2015. 02.
 - 아주대학교 정보통신대학원
   - '2016. 03. ~
+- 인천대학교
+  - '2011. 03. ~ '2015. 02.
 
 ### 자격증
 - 어학
