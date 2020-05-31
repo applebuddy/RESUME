@@ -154,11 +154,6 @@
   - 개발 후기(개인블로그) : https://blog.naver.com/koungtea92/221423501380
 
 <br>
-<div>
-<img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833770-1b83c600-bc7f-11e9-8546-6b174d56ec74.png">      <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62833771-1cb4f300-bc7f-11e9-84ae-673d6e71616a.png">       <img width="200" height="355" src="https://user-images.githubusercontent.com/4410021/62879429-10579580-bd66-11e9-8219-7c20309fe5a5.png"> 
-</div>
-
-<br>
 <br>
 <br>
 
