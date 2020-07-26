@@ -108,6 +108,7 @@
     * Pytorch model ~ iOS 연동 간 문제로 현재 딥러닝 기능 미적용
   - 회원가입, 로그인, 옷 데이터 관리 간 클라이언드 ~ 서버 간 post/get/put/delete API request 구현경험
   - Fash AppStore 링크 : https://apps.apple.com/kr/app/fash/id1492692916
+    - 현재 비용 문제로 서버 작동 x
   
 <br>
 <div>
@@ -247,13 +248,12 @@
 <br>
 
 ## 개발자 오픈채팅방 운영
-- 개요 : 개발자 오픈채팅방 커뮤니티 운영(알고리즘, 부스트코스iOS과정)
+- 개요 : 개발자 오픈채팅방 커뮤니티 운영(swift 알고리즘)
 - 기간 : 2019. 03.~
 - 역할 : 커뮤니티 관리자
   - 커뮤니티 운영 및 소통, 커뮤니티 활동 간 스터디활동 및 정보교류 목적 카카오톡 오픈채팅방 운영
   - swift 알고리즘 문제선정 및 풀이, 토론 주도
 - 커뮤니티 링크 :
-  - 부스트코스 iOS개발자 스터디그룹 오픈채팅방 : https://open.kakao.com/o/gZ6pX4gb
   - Swift AlgorithmClub 오픈채팅방 : https://open.kakao.com/o/gfCPxcJb
 
 <br>
